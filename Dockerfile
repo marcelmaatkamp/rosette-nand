@@ -1,5 +1,5 @@
 ARG DEBIAN_FRONTEND=noninteractive
-FROM racket/racket:7.7
+FROM racket/racket:7.9-full
 RUN \
  raco pkg install --deps search-auto \
   rosette z3
