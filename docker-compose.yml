@@ -1,0 +1,6 @@
+version: '3'
+services:
+ rosette-nand:
+  image: marcelmaatkamp/rosette-nand
+  build:
+   context: . 
