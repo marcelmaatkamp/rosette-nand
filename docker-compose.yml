@@ -1,8 +1,8 @@
 version: '3'
 services:
  rosette-nand:
-  image: marcelmaatkamp/rosette-nand
-  command: racket -f fact.rkt -e '(fact 10)'
+  image: marcelmaatkamp/racket-rosette
+  command: racket battleship.rkt
   build:
    context: . 
   volumes:
