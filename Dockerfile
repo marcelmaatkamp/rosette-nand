@@ -4,6 +4,9 @@ RUN \
  raco pkg install --deps search-auto \
   rosette z3
 
+WORKDIR /application
+VOLUME /application
+
 # RUN \
 #  git clone https://github.com/Z3Prover/z3.git &&\
 #  cd z3; python scripts/mk_make.py &&\
