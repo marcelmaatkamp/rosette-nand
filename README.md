@@ -4,6 +4,16 @@ my first try working with rosette by defining a nand-gate
 # build
  - https://defn.io/2019/05/01/github-actions-for-racket/
 
+# run
+```
+$ racket battleship.rkt
+```
+
+# exec
+```
+$ raco exe battleship.rkt
+```
+
 # packages
  - ocaml
  - 

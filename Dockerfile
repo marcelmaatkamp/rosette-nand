@@ -4,6 +4,7 @@ RUN \
  raco pkg install -i --skip-installed --auto \
   racklog \
   rosette \
+  slideshow-lib \
   z3
 
 WORKDIR /application

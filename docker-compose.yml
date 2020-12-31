@@ -1,8 +1,9 @@
 version: '3'
 services:
- rosette-nand:
+ racket:
   image: marcelmaatkamp/racket-rosette
-  command: battleship.rkt
+# command: battleship.rkt
+  command: racklog.rkt
   build:
    context: . 
   volumes:
