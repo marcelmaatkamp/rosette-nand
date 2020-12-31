@@ -1,11 +1,14 @@
 ARG DEBIAN_FRONTEND=noninteractive
 FROM racket/racket:7.9-full
 RUN \
- raco pkg install --deps search-auto \
-  rosette z3
+ raco pkg install -i --skip-installed --auto \
+  racklog \
+  rosette \
+  z3
 
 WORKDIR /application
 VOLUME /application
+ENTRYPOINT ["racket"]
 
 # RUN \
 #  git clone https://github.com/Z3Prover/z3.git &&\

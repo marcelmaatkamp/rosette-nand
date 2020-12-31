@@ -2,7 +2,7 @@ version: '3'
 services:
  rosette-nand:
   image: marcelmaatkamp/racket-rosette
-  command: racket battleship.rkt
+  command: battleship.rkt
   build:
    context: . 
   volumes:

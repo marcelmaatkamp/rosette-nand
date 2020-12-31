@@ -9,6 +9,10 @@ my first try working with rosette by defining a nand-gate
  - 
 
 # sites
+ - http://emina.github.io/rosette/ 
+ - https://blog.sigplan.org/2019/11/26/building-your-first-program-synthesizer/
+ - https://homes.cs.washington.edu/~bodik/ucb/cs294fa12.html
+ - https://github.com/kach/recreational-rosette
  - https://dangtv.github.io/BIRDS/
  - https://github.com/uwdb/Cosette
  - http://leanprover.github.io/
