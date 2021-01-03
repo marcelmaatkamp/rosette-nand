@@ -5,7 +5,8 @@ RUN \
   racklog \
   rosette \
   slideshow-lib \
-  z3
+  z3 \
+  stomp
 
 WORKDIR /application
 VOLUME /application

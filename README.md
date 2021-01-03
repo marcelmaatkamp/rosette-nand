@@ -64,6 +64,12 @@ Place ships as follows: (#(struct:ship 4 5 4 #t) #(struct:ship 3 7 3 #t) #(struc
  - http://leanprover.github.io/
  - https://github.com/Z3Prover/z3
  - https://unsat.cs.washington.edu/projects/memsynth/pldi17-aec/
+ - https://cs.wellesley.edu/~cs251/s20/topics/racket.html
+ - https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-1-Intro.pdf
+ - https://www2.cs.sfu.ca/CourseCentral/383/tjd/racket_intro.html
+ - https://www.linuxlinks.com/excellent-free-tutorials-learn-racket/
+ - https://defn.io/2019/05/01/github-actions-for-racket/
+ - https://github.com/uhub/awesome-coq
 
 # papers
  - https://unsat.cs.washington.edu/papers/bornholt-memsynth.pdf
