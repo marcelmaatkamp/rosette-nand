@@ -1,6 +1,14 @@
 # rosette-nand
 my first try working with rosette by defining a nand-gate
 
+# new package 
+```
+# raco pkg new hello_world
+# cd hello_world
+# racket main.rkt 
+hello world
+```
+
 # build
  - https://defn.io/2019/05/01/github-actions-for-racket/
 
