@@ -78,6 +78,7 @@ Place ships as follows: (#(struct:ship 4 5 4 #t) #(struct:ship 3 7 3 #t) #(struc
  - https://www.linuxlinks.com/excellent-free-tutorials-learn-racket/
  - https://defn.io/2019/05/01/github-actions-for-racket/
  - https://github.com/uhub/awesome-coq
+ - https://esolangs.org/wiki/OISC
 
 # papers
  - https://unsat.cs.washington.edu/papers/bornholt-memsynth.pdf
