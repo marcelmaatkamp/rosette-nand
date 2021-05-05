@@ -84,3 +84,9 @@ Place ships as follows: (#(struct:ship 4 5 4 #t) #(struct:ship 3 7 3 #t) #(struc
  - https://unsat.cs.washington.edu/papers/bornholt-memsynth.pdf
  - https://unsat.cs.washington.edu/papers/nelson-serval.pdf
  - https://dl.acm.org/doi/pdf/10.1145/3110269
+
+# sudoku (or: lets start with a simple problem)
+ - https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/
+  - https://raw.githubusercontent.com/horenmar/sudoku-example/master/inputs/benchmark/top95.txt
+
+
